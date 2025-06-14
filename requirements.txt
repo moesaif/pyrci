@@ -1,0 +1,6 @@
+scikit-learn>=1.4,<1.6
+psutil>=5.9,<6.0
+rich>=13.7,<14.0
+pytest>=8.0  # dev‑only
+ruff>=0.4    # dev‑only
+black>=24.4  # dev‑only
