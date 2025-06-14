@@ -35,7 +35,7 @@ Think of PyCRI as a playground where systems enthusiasts and ML folks meet.
 
 ```bash
 # 1. clone & install deps
-$ git clone https://github.com/your-name/pycri.git && cd pycri
+$ git clone https://github.com/moesaif/pycri.git && cd pycri
 $ pip install -r requirements.txt     # only argparse + scikit‑learn
 
 # 2. prepare a tiny ARM64 or x86_64 linux rootfs (example: Alpine)
